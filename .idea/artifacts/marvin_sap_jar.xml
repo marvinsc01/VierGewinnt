@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="marvin.sap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/marvin_sap_jar</output-path>
+    <root id="archive" name="marvin.sap.jar">
+      <element id="module-output" name="marvin.sap" />
+    </root>
+  </artifact>
+</component>
